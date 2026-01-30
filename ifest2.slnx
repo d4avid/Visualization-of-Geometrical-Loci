@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ifest2.vcxproj" Id="45bbb8be-53f4-4306-9d15-ce91f8ecb1ab" />
+</Solution>

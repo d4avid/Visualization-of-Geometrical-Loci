@@ -1,0 +1,22 @@
+﻿  ifest2.cpp
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(107,207): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(107,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(107,110): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(109,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(109,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(110,143): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(110,116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(110,115): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(138,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(138,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(138,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(155,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(155,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(155,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(226,171): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(226,156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(229,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Info\programe\visualstudio\ifest2\ifest2.cpp(229,121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ifest2.vcxproj -> C:\Info\programe\visualstudio\ifest2\x64\Debug\ifest2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
